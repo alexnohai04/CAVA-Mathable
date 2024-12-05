@@ -8,3 +8,5 @@
 
 ## Purpose
 This project can be used for automating visual recognition processes in games or similar applications.
+
+## [Documentatie](https://github.com/alexnohai04/CAVA-Mathable/blob/main/Documentatie.pdf)
